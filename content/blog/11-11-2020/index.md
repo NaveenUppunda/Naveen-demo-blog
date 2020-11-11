@@ -6,8 +6,6 @@ description: "Nifty Metal and Nifty Pharma are out performers"
 
 # Sector Analysis
 
-    * Nifty Metal gave
-
 Nifty Metal has been the outperformer of the day , it has gven breakout on the daily time frame
 
 ![Nifty Metal Daily](https://www.tradingview.com/x/z1WF9Af6/)
